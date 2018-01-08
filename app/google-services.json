@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "338113164134",
+    "firebase_url": "https://iotandroid-2edc9.firebaseio.com",
+    "project_id": "iotandroid-2edc9",
+    "storage_bucket": "iotandroid-2edc9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338113164134:android:b9f7310d8266e0b1",
+        "android_client_info": {
+          "package_name": "com.demo.iotandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338113164134-2p990q10kp8e9s7sb9st755qjrklo1uk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChTVpK6ZuMimlwJ26fcUufmaeny5MWA70"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
